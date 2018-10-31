@@ -38,7 +38,7 @@ public class IfElse {
              
              //Check driving
              if(age >= 16) {
-                  out.println("At age " + age + " a person is old enough to drive.");
+                  out.println("At age " a person is old enough to drive.");
              } else {
                   out.println("At age " + age + " a person is not old enough to drive.");
              }
